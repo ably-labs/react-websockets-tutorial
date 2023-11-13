@@ -9,7 +9,7 @@ The final product looks like this:
 
 ![Live cursors demo](./media/demo.gif)
 
-Follow along using your preferred tutorial medium above, browse and learn from the code here, or have some fun and run the demo using the instructions below.
+Follow along using your preferred tutorial medium above, browse and learn from the code here on GitHub, or get hands-on and run the demo by following the instructions included below.
 
 ## Running the demo
 Want to run the demo and check it out? No problem!
