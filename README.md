@@ -3,7 +3,7 @@ The accompanying source code for our tutorial and video tutorial on how to use W
 - 📝 Read the complete guide to WebSockest with React (including tutorial) [here](https://ably.com/blog/websockets-react-tutorial#how-to-use-web-sockets-with-react-and-node) and follow along.
 - 📹 Alternatively, we recorded the same tutorial as a video [here](https://youtu.be/4Uwq0xB30JE).
 
-In the tutorial, we build an realtime multiplayer cursor feature using [React useWebSocket](https://github.com/robtaussig/react-use-websocket) WebSockets and [perfect-cursors](https://github.com/steveruizok/perfect-cursors) on the frontend, and [ws](https://github.com/websockets/ws) on the back.
+In the tutorial, we build an realtime multiplayer cursor feature using [React useWebSocket](https://github.com/robtaussig/react-use-websocket) and [perfect-cursors](https://github.com/steveruizok/perfect-cursors) on the frontend, and [ws](https://github.com/websockets/ws) on the back.
 
 The final product looks like this:
 
